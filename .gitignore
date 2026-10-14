@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Private authentication and fetch output
+session.json
+recent.json
+*.session
+.env
+.env.*
+tairagram_downloads/
+
+# Editors
+.idea/
+.vscode/
